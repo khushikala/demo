@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: shiva
+Build-Jdk: 17.0.8.1
+Implementation-Title: Springmvcjdbc Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.springboot
+Implementation-URL: http://maven.apache.org
+Main-Class: com.rohit.ApplicationMain
+Created-By: Maven Integration for Eclipse
+
