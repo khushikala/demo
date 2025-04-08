@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: Springmvcjdbc Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.rohit.ApplicationMain
+Created-By: Maven Integration for Eclipse
+
